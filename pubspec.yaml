@@ -1,0 +1,46 @@
+name: testelojongapp
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+#PLUGINS
+  lottie: ^1.0.0
+  connectivity_plus: ^5.0.2
+  dio: ^5.4.0
+  cached_network_image: ^3.1.0
+  infinite_scroll_pagination: ^4.0.0
+  flutter_html: ^3.0.0-beta.2
+  dio_cache_interceptor: ^3.5.0
+  shared_preferences: ^2.2.2
+
+  #  share_plus: ^7.2.1
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/img/lojong.png
+
