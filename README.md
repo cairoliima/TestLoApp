@@ -1,20 +1,10 @@
 # testelojongapp
 
-A new Flutter project.
+Projeto em flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+Projeto feito para teste e estudo, gerado apk e abaixos prints de alguns dispositivos solicitados.
 
 <img src="/rd/Nexus 4 - 1.png">
 <img src="/rd/nexus 4 - 2.png">
